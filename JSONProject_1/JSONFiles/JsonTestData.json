@@ -1,0 +1,28 @@
+{
+"userlogins": [
+ {
+  "username": "abc@gmail.com",
+  "password": "Test@123"
+ },
+ {
+  "username": "john@gmail.com",
+  "password": "Test@12"
+ },
+ {
+  "username": "pqr@gmail.com",
+  "password": "Test@123"
+ },
+ {
+  "username": "david@gmail.com",
+  "password": "Test@99"
+ },
+ {
+  "username": "matt@gmail.com",
+  "password": "Matt.test@123"
+ },
+ {
+  "username": "anna@gmail.com",
+  "password": "Anna.test@123"
+ }
+]
+}
